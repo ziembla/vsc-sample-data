@@ -1,0 +1,10 @@
+{
+    "window.title": "[VSCE DEBUG] ${dirty}${activeEditorMedium}",
+    "workbench.colorTheme": "Default Dark+",
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#f00",
+        "statusBar.background": "#f00",
+        "titleBar.activeBackground": "#f00",
+    },
+    "workbench.tree.indent": 22,
+}
